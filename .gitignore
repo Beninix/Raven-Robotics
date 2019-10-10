@@ -47,9 +47,9 @@ compile_commands.json
 /2560-S/_gitignore
 /2560-S/build/
 /2560-S/vex
-/2560-S/include
+#/2560-S/include
 
 /2560-Z/_gitignore
 /2560-Z/build/
 /2560-Z/vex
-/2560-Z/include
+#/2560-Z/include
